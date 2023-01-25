@@ -25,7 +25,7 @@ public class Student {
     public static void main(String[] args) {
         //creating scanner object that reads from System.in
         Scanner scan = new Scanner(System.in);
-        //creating FileWriter and FileReader objects
+        //creating FileWriter
         FileWriter outputFile = null;
 
         try {
